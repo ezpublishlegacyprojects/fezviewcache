@@ -1,6 +1,5 @@
 <?php /* #?ini charset="utf-8"?
 
-
 [CacheMethod]
 ClearCacheMethod[]
 ClearCacheMethod[]=object

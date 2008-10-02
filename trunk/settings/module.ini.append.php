@@ -2,5 +2,6 @@
 
 [ModuleSettings]
 ExtensionRepositories[]=fezviewcache
+ModuleList[]=fezviewcache
 
 */ ?>
